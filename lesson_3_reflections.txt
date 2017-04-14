@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+   So that we know what is the last update that we pull from the remote. And if there are any updates since then on the remote.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
