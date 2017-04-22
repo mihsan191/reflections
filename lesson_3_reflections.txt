@@ -23,9 +23,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Use P4. It has similar process. But it won't allow offline commit like what Git does.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Of course. We need to keep the master as the production code. So any change that needs to be submitted to the master needs to be reviewed first. So we won't break the master, production working version just like that.
